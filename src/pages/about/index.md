@@ -1,19 +1,11 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About me
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+I work at Oxford University's Big Data Institute at the interface of population genetics, evolution and infectious disease. Much of my previous research has involved understanding the processes that have contributed to the genetic ancestry of different human populations.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+In addition to the work of others, most notably that involving ancient genomes, this work has shown that the genomes of modern human populations are best viewed as mosaics of ancestry which have come together as the result of specific historical events. We all have a mixture of ancestries.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Advances in our ability to sequence large numbers of samples quickly and cheaply are now spreading to non-human organisms. My current work with MalariaGEN involves helping to build large open access datasets of Plasmodium and Anopheles genomes from around the world. The challenge now is to extract meaningful information from these genomes that can be used to inform decision making as we continue towards malaria elimination.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I am also increasingly active in thinking about new and different ways of communicating this science to the public. I’ve developed a malaria genetics based card game (Cards against malaria) that describes how genetics susceptibility to disease works. I’m also collaborating with the Oxford based children’s comic The Phoenix to develop a strip about DNA and genetics, and am working with playwright Beth Flintoff to produce a play about the future use of genetics and big data in healthcare.
